@@ -17,6 +17,7 @@ An Excel-based Capital Asset Pricing Model (CAPM) analysis to examine the relati
 
 - Analyzed 60 months of historical market data from August 2021 through July 2026
 - Used monthly adjusted closing prices from Yahoo Finance
+- Used Python and the yfinance library in Google Colab before being analyzed in Excel
 - Calculated monthly returns
 - Estimated beta using monthly company returns relative to the S&P 500
 - Calculated the historical annualized market return
