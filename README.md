@@ -53,6 +53,14 @@ The Excel workbook includes:
 - **Charts** - visual analysis
 - **Insights** - key findings and interpretations
 
+## Tools
+
+- Microsoft Excel
+- Python
+- Google Colab
+- yfinance
+- Yahoo Finance
+
 ## Key Findings
 
 - P&G had the highest calculated beta at 1.09, which indicates greatest sensitivity to overall market movements.
